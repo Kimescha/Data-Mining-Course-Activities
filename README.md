@@ -5,7 +5,7 @@ The main assignments for the Data Mining course offered at the University of Teh
  variable type, the measurement unit, and a brief description, the "Blood Transfusion Service Center"
  is a classification problem solved in this assignment using Pandas, Seaborn, and MatPlotLib libraries.
 
- **Second assignment:**Classification Algorithms, PCA, and Parameter Tuning: Part one is a classification problem on the Maternal Health Risk Dataset, 
+**Second assignment:** Classification Algorithms, PCA, and Parameter Tuning: Part one is a classification problem on the Maternal Health Risk Dataset, 
 using Decision Tree, K-Nearest Neighbors(KNN), Support Vector Machine(SVM), and Random Forest classification algorithms.
  Parameter tuning is performed using cross-validation.
 
